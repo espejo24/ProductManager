@@ -1,4 +1,4 @@
-package ru.netology.domain.product;
+package ru.netology.domain;
 
 public class Book extends Product {
     // private String name;    от родителя
